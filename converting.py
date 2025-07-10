@@ -11,5 +11,4 @@ def convert(ops, value):
 
 ops = input(" m  or  km")
 value = int(input("enter number: "))
-
 print(convert(ops, value))
