@@ -10,7 +10,7 @@ def convert(ops, value):
 
     else: 
         return "Error"
-print("hello\n")
+print("Hello! \n")
 
 ops = input(" m  or  km")
 value = int(input("enter number: "))
